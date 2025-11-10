@@ -74,13 +74,3 @@ For detailed setup instructions, see [SETUP_GUIDE.md](docs/SETUP_GUIDE.md)
 - Update `Dockerfile` to change the base image
 - Add ignored vulnerabilities to `.trivyignore` file
 
-## 📚 Learn More
-- [Trivy Documentation](https://aquasecurity.github.io/trivy/)
-- [GitHub Actions Documentation](https://docs.github.com/en/actions)
-- [DevSecOps Best Practices](https://owasp.org/www-project-devsecops-guideline/)
-
-## 👨‍💻 Author
-Created as a DevSecOps learning project
-
-## 📝 License
-MIT License - feel free to use for learning and portfolio purposes
